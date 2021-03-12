@@ -17,7 +17,7 @@
     "firebase-admin": "^7.4.0",
     "firebase-store": "^0.4.0",
     "html2canvas": "^1.0.0-rc.3",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "moment": "^2.24.0",
     "multi-select-react": "^0.1.8",
     "react": "^16.8.6",

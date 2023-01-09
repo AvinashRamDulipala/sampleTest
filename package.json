@@ -14,7 +14,7 @@
     "datatables.net-editor": "^1.6.5",
     "draft-js": "^0.10.5",
     "firebase": "^5.11.1",
-    "firebase-admin": "^7.4.0",
+    "firebase-admin": "^11.4.1",
     "firebase-store": "^0.4.0",
     "html2canvas": "^1.0.0-rc.3",
     "jspdf": "^1.5.3",
